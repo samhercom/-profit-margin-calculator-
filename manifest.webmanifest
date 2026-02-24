@@ -2,6 +2,7 @@
   "name": "Profit Margin Calculator",
   "short_name": "Profit Margin",
   "start_url": "/-profit-margin-calculator-/",
+  "scope": "/-profit-margin-calculator-/",
   "display": "standalone",
   "background_color": "#050814",
   "theme_color": "#0A0F24",
@@ -15,6 +16,18 @@
       "src": "/-profit-margin-calculator-/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "/-profit-margin-calculator-/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/-profit-margin-calculator-/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
